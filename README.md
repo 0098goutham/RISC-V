@@ -69,3 +69,6 @@ Our trainers – Guruprasad Siddarth, Nahusha K L, and G R Vighneshwar – for t
 
 # Conclusion
 This workshop has been an exciting and transformative learning experience. The concepts and skills I learned during these two days have strengthened my understanding of RISC-V and open-source hardware. This repository documents my journey and serves as a starting point for further exploration and projects in this domain. ### [PDF IS OF DAY2] ###
+
+## Tools and Setup
+All the LED-specific C programs in this repository are developed and executed using the VSDSQUADRON MINI board, which provides a great platform for experimenting with hardware interfacing and RISC-V applications. The programs were written in Visual Studio Code and managed seamlessly using the PlatformIO IDE extension.
