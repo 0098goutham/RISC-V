@@ -20,7 +20,7 @@ Discussed foundational topics to gear up for deeper dives into RISC-V.
 For a comprehensive guide on Linux commands, check out this Linux Commands Cheat Sheet[https://www.geeksforgeeks.org/linux-commands-cheat-sheet/].
 
 ## Image Included
-An image showcasing the Linux commands we explored today has been added to this repository for beginners looking to get started—hope it helps inspire others on their Linux journey!
+An image showcasing the Linux commands we explored today has been added to this repository for beginners looking to get started—hope it helps inspire others on their Linux journey!  ### [IMAGES ARE OF DAY1] ###
 
 # Overview DAY 2 🚀
 My learning experience from Day 2, which was the final day of the RISC-V Workshop. As a third-year ECE student, the workshop was an incredible opportunity to dive deeper into the world of RISC-V, VLSI tools, hardware programming, and open-source platforms. This hands-on experience has laid a strong foundation for my future explorations in this field.
@@ -68,4 +68,4 @@ Kunal Ghosh (vlsisystemdesign.com), our exceptional host, whose expertise made t
 Our trainers – Guruprasad Siddarth, Nahusha K L, and G R Vighneshwar – for their guidance and support throughout this journey.
 
 # Conclusion
-This workshop has been an exciting and transformative learning experience. The concepts and skills I learned during these two days have strengthened my understanding of RISC-V and open-source hardware. This repository documents my journey and serves as a starting point for further exploration and projects in this domain.
+This workshop has been an exciting and transformative learning experience. The concepts and skills I learned during these two days have strengthened my understanding of RISC-V and open-source hardware. This repository documents my journey and serves as a starting point for further exploration and projects in this domain. ### [PDF IS OF DAY2] ###
